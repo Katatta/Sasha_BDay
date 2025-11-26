@@ -1,6 +1,9 @@
 # 🎉 Birthday Wishing Website
 
 A clean and interactive **Happy Birthday website** built with modern animations and smooth page transitions. It’s designed to create a personalized and memorable birthday experience for your friends or loved ones.
+---
+ 
+<p align="center"><img src="https://happy-birthday-murex-pi.vercel.app/deskBanner.png" /></p>
 
 ---
 
